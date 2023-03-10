@@ -3,7 +3,7 @@
 
 Adding this extra line
 
-ading another line
+adding another line
 
 Welcome to Code First Girls!
 
