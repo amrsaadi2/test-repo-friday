@@ -1,9 +1,7 @@
 # CFG Week One
 ## Intro to the world of the web and HTML
 
-Adding this extra line
-
-adding another line
+I fixed the styling
 
 Welcome to Code First Girls!
 
